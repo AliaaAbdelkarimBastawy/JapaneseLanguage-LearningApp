@@ -1,17 +1,15 @@
-# language_learningapp
+# Japanese Language Learning App
 
-A new Flutter project.
+- The Japanese Language Learning App is a Flutter application designed to help users learn Japanese 
+  by providing lessons on family members, numbers, colors, and useful phrases.
 
-## Getting Started
+- The app offers English and Japanese translations for each word or phrase and provides audio pronunciation
+  to assist users in learning correct pronunciation.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# JapaneseLanguage-LearningApp
+- Learn Japanese family members.
+- Explore Japanese numbers.
+- Discover Japanese colors.
+- Master commonly used Japanese phrases.
+- Audio pronunciation for each word or phrase to aid in correct pronunciation.
